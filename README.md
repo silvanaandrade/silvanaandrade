@@ -1,9 +1,3 @@
-### Olá, boas vindas! 👋
-![banner](https://github.com/silvanaandrade/silvanaandrade/blob/main/Branco%20e%20Verde%20S%C3%A1lvia%20Claro%20Apresenta%C3%A7%C3%A3o%20Simples(2).jpg)
-
-
-
-
 <!--
 **silvanaandrade/silvanaandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,14 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+### Olá, boas vindas! 👋
+![banner](https://github.com/silvanaandrade/silvanaandrade/blob/main/Branco%20e%20Verde%20S%C3%A1lvia%20Claro%20Apresenta%C3%A7%C3%A3o%20Simples(2).jpg)
 ### Sou Silvana Felisiak!
-
-![foto do perfil](profile-1-300x300.jpg)
-
-
+##
+<div>
 <a href="#"><img border="0" scr="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
 <a href="#"><img border="0" scr="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /></a>
-<a href="#"><img border="0" scr="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /></a>
+<a href="#"><img border="0" scr="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/></a></div>
 
 
 
@@ -42,15 +37,15 @@ Here are some ideas to get you started:
 
 
 <div>
-<a href="#"><img border="0" scr="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a>
+<a href="#"><img border="0" scr="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 
-<a href="#"><img border="0" scr="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a>
+<a href="#"><img border="0" scr="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 
-<a href="#"><img border="0" scr="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<a href="#"><img border="0" scr="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<a href="#"><img border="0" scr="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<a href="#"><img border="0" scr="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<a href="#"><img border="0" scr="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a>
+<a href="#"><img border="0" scr="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 
 </div>
 
