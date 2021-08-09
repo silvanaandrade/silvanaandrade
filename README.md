@@ -1,5 +1,7 @@
 ### Olá, boas vindas! 👋
 
+
+
 <!--
 **silvanaandrade/silvanaandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,10 +19,9 @@ Here are some ideas to get you started:
 
 ### Sou Silvana Felisiak!
 <img width="300px" align="left" scr=""/>
-<a href="#"<img border="0" scr=""/>
-<a href="#"<img border="0" scr=""/>
-<a href="#"<img border="0" scr=""/>
-<a href="#"<img border="0" scr=""/>
+<a href="#"<img border="0" scr="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<a href="#"<img border="0" scr="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+<a href="#"<img border="0" scr="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 
 
 - 🔭 I’m currently working on ...
@@ -35,11 +36,11 @@ Here are some ideas to get you started:
 
 
 <div>
-<a href="#"<img border="0" scr=""/>
-<a href="#"<img border="0" scr=""/>
-<a href="#"<img border="0" scr=""/>
-
-
+<a href="#"<img border="0" scr="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+<a href="#"<img border="0" scr="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+<a href="#"<img border="0" scr="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="#"<img border="0" scr="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="#"<img border="0" scr="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </div>
 
 
