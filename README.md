@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, boas vindas! 👋
 
 <!--
 **silvanaandrade/silvanaandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Sou Silvana Felisiak!
+<img width="300px" align="left" scr=""/>
+<a href="#"<img border="0" scr=""/>
+<a href="#"<img border="0" scr=""/>
+<a href="#"<img border="0" scr=""/>
+<a href="#"<img border="0" scr=""/>
+
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+<br>
+
+
+<div>
+<a href="#"<img border="0" scr=""/>
+<a href="#"<img border="0" scr=""/>
+<a href="#"<img border="0" scr=""/>
+
+
+</div>
+
+
+
