@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ### Sou Silvana Felisiak!
-<img width="300px" align="left" scr=""/>
+<img width="300px" align="left" scr="https://github.com/silvanaandrade/silvanaandrade/blob/main/profile-1-300x300.jpg" />
 <a href="#"><img border="0" scr="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
 <a href="#"><img border="0" scr="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /></a>
 <a href="#"><img border="0" scr="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /></a>
